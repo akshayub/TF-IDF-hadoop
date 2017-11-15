@@ -2,7 +2,7 @@
 TF-IDF implementation in Hadoop using MapReduce.
 This is a 5th Semester course project in Distributed Computing Systems course.
 
-12 of shakesperean plays obtained from gutenberg.com have been used as corpus.
+12 of shakesperean plays obtained from [Gutenberg Project](http://www.gutenberg.org/wiki/Main_Page) have been used as corpus.
 
 Instructions on how to execute:
 On the commmand line execute the following instruction after setting the correct location for OS.
